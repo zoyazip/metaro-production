@@ -2,7 +2,7 @@ const lv: LanguageType = {
     tel: "371 25 654 406",
     email: "info@metaro.lv",
     home: "Sākums",
-    about: "Par mumus",
+    about: "Par mums",
     certifications: "Sertifikāti",
     services: "Pakalpojumi",
     gallery: "Galerija",
